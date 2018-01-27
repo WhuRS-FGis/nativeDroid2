@@ -23,8 +23,9 @@
 
 @import url("flexboxgrid.min.css");
 @import url("material-design-iconic-font.min.css");
-@import url(//fonts.googleapis.com/css?family=RobotoDraft:300,400,500,700,400italic);
-@import url(//fonts.googleapis.com/css?family=Roboto:400,300,500,400italic,700,900);
+@import url("RobotoDraft.css");
+@import url("Roboto.css");
+@import url("SourceHanSansCN.css");
 
 body {
 	-webkit-transition: opacity 0.4s;
@@ -60,7 +61,7 @@ body.nd2-ready {
 }
 
 body, input, select, textarea, button, .ui-btn,h1,h2,h3,h4,h5,h6 {
-	font-family: "RobotoDraft","Roboto","Helvetica Neue",sans-serif;
+	font-family: "RobotoDraft","Roboto","思源黑体 CN","Helvetica Neue",sans-serif;
 	font-weight: 400;
 }
 
