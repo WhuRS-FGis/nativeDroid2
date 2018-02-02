@@ -1271,26 +1271,26 @@ html >body .ui-rangeslider .ui-rangeslider-sliders .ui-slider-track:first-child 
 .ui-btn.clr-btn-accent-blue-grey,.ui-btn.clr-btn-accent-blue-grey:hover { color: #607D8B; }
 .ui-btn.clr-btn-accent-white,.ui-btn.clr-btn-accent-white:hover { color: #FFFFFF; }
 
-.ui-btn.ui-btn-raised.clr-btn-lime,.ui-btn.clr-btn-lime:hover,.nd2-label.nd2-labe-lime { color: rgba(0,0,0,0.8); background-color: #cddc39; }
-.ui-btn.ui-btn-raised.clr-btn-red,.ui-btn.clr-btn-red:hover,.nd2-label.nd2-labe-red { color: rgb(255,255,255); background-color: #F44336; }
-.ui-btn.ui-btn-raised.clr-btn-pink,.ui-btn.clr-btn-pink:hover,.nd2-label.nd2-labe-pink { color: rgb(255,255,255); background-color: #E91E63; }
-.ui-btn.ui-btn-raised.clr-btn-purple,.ui-btn.clr-btn-purple:hover,.nd2-label.nd2-labe-purple { color: rgb(255,255,255); background-color: #9C27B0; }
-.ui-btn.ui-btn-raised.clr-btn-deep-purple,.ui-btn.clr-btn-deep-,.nd2-label.nd2-labe-btnpurple:hover { color: rgb(255,255,255); background-color: #673AB7; }
-.ui-btn.ui-btn-raised.clr-btn-indigo,.ui-btn.clr-btn-indigo:hover,.nd2-label.nd2-labe-indigo { color: rgb(255,255,255); background-color: #3F51B5; }
-.ui-btn.ui-btn-raised.clr-btn-blue,.ui-btn.clr-btn-blue:hover,.nd2-label.nd2-labe-blue { color: rgb(255,255,255); background-color: #2196F3; }
-.ui-btn.ui-btn-raised.clr-btn-light-blue,.ui-btn.clr-btn-light-,.nd2-label.nd2-labe-btnblue:hover { color: rgb(255,255,255); background-color: #03A9F4; }
-.ui-btn.ui-btn-raised.clr-btn-cyan,.ui-btn.clr-btn-cyan:hover,.nd2-label.nd2-labe-cyan { color: rgb(255,255,255); background-color: #00BCD4; }
-.ui-btn.ui-btn-raised.clr-btn-teal,.ui-btn.clr-btn-teal:hover,.nd2-label.nd2-labe-teal { color: rgb(255,255,255); background-color: #009688; }
-.ui-btn.ui-btn-raised.clr-btn-green,.ui-btn.clr-btn-green:hover,.nd2-label.nd2-labe-green { color: rgb(255,255,255); background-color: #4CAF50; }
-.ui-btn.ui-btn-raised.clr-btn-light-green,.ui-btn.clr-btn-light-,.nd2-label.nd2-labe-btngreen:hover { color: rgb(255,255,255); background-color: #8BC34A; }
-.ui-btn.ui-btn-raised.clr-btn-yellow,.ui-btn.clr-btn-yellow:hover,.nd2-label.nd2-labe-yellow { color: rgba(0,0,0,0.8); background-color: #FFEB3B; }
-.ui-btn.ui-btn-raised.clr-btn-amber,.ui-btn.clr-btn-amber:hover,.nd2-label.nd2-labe-amber { color: rgba(0,0,0,0.8); background-color: #FFC107; }
-.ui-btn.ui-btn-raised.clr-btn-orange,.ui-btn.clr-btn-orange:hover,.nd2-label.nd2-labe-orange { color: rgb(255,255,255); background-color: #FF9800; }
-.ui-btn.ui-btn-raised.clr-btn-deep-orange,.ui-btn.clr-btn-deep-,.nd2-label.nd2-labe-btnorange:hover { color: rgb(255,255,255); background-color: #FF5722; }
-.ui-btn.ui-btn-raised.clr-btn-brown,.ui-btn.clr-btn-brown:hover,.nd2-label.nd2-labe-brown { color: rgb(255,255,255); background-color: #795548; }
-.ui-btn.ui-btn-raised.clr-btn-grey,.ui-btn.clr-btn-grey:hover,.nd2-label.nd2-labe-grey { color: rgb(255,255,255); background-color: #9E9E9E; }
-.ui-btn.ui-btn-raised.clr-btn-blue-grey,.ui-btn.clr-btn-blue-,.nd2-label.nd2-labe-btngrey:hover { color: rgb(255,255,255); background-color: #607D8B; }
-.ui-btn.ui-btn-raised.clr-btn-white,.ui-btn.clr-btn-white:hover,.nd2-label.nd2-labe-white { color: rgba(0,0,0,0.8); background-color: #FFFFFF; }
+.ui-btn.ui-btn-raised.clr-btn-lime,.ui-btn.clr-btn-lime:hover,.nd2-label.nd2-label-lime { color: rgba(0,0,0,0.8); background-color: #cddc39; }
+.ui-btn.ui-btn-raised.clr-btn-red,.ui-btn.clr-btn-red:hover,.nd2-label.nd2-label-red { color: rgb(255,255,255); background-color: #F44336; }
+.ui-btn.ui-btn-raised.clr-btn-pink,.ui-btn.clr-btn-pink:hover,.nd2-label.nd2-label-pink { color: rgb(255,255,255); background-color: #E91E63; }
+.ui-btn.ui-btn-raised.clr-btn-purple,.ui-btn.clr-btn-purple:hover,.nd2-label.nd2-label-purple { color: rgb(255,255,255); background-color: #9C27B0; }
+.ui-btn.ui-btn-raised.clr-btn-deep-purple,.ui-btn.clr-btn-deep-purple,.nd2-label.nd2-label-deep-purple { color: rgb(255,255,255); background-color: #673AB7; }
+.ui-btn.ui-btn-raised.clr-btn-indigo,.ui-btn.clr-btn-indigo:hover,.nd2-label.nd2-label-indigo { color: rgb(255,255,255); background-color: #3F51B5; }
+.ui-btn.ui-btn-raised.clr-btn-blue,.ui-btn.clr-btn-blue:hover,.nd2-label.nd2-label-blue { color: rgb(255,255,255); background-color: #2196F3; }
+.ui-btn.ui-btn-raised.clr-btn-light-blue,.ui-btn.clr-btn-light-blue,.nd2-label.nd2-label-light-blue { color: rgb(255,255,255); background-color: #03A9F4; }
+.ui-btn.ui-btn-raised.clr-btn-cyan,.ui-btn.clr-btn-cyan:hover,.nd2-label.nd2-label-cyan { color: rgb(255,255,255); background-color: #00BCD4; }
+.ui-btn.ui-btn-raised.clr-btn-teal,.ui-btn.clr-btn-teal:hover,.nd2-label.nd2-label-teal { color: rgb(255,255,255); background-color: #009688; }
+.ui-btn.ui-btn-raised.clr-btn-green,.ui-btn.clr-btn-green:hover,.nd2-label.nd2-label-green { color: rgb(255,255,255); background-color: #4CAF50; }
+.ui-btn.ui-btn-raised.clr-btn-light-green,.ui-btn.clr-btn-light-green,.nd2-label.nd2-label-light-green { color: rgb(255,255,255); background-color: #8BC34A; }
+.ui-btn.ui-btn-raised.clr-btn-yellow,.ui-btn.clr-btn-yellow:hover,.nd2-label.nd2-label-yellow { color: rgba(0,0,0,0.8); background-color: #FFEB3B; }
+.ui-btn.ui-btn-raised.clr-btn-amber,.ui-btn.clr-btn-amber:hover,.nd2-label.nd2-label-amber { color: rgba(0,0,0,0.8); background-color: #FFC107; }
+.ui-btn.ui-btn-raised.clr-btn-orange,.ui-btn.clr-btn-orange:hover,.nd2-label.nd2-label-orange { color: rgb(255,255,255); background-color: #FF9800; }
+.ui-btn.ui-btn-raised.clr-btn-deep-orange,.ui-btn.clr-btn-deep-orange,.nd2-label.nd2-label-deep-orange { color: rgb(255,255,255); background-color: #FF5722; }
+.ui-btn.ui-btn-raised.clr-btn-brown,.ui-btn.clr-btn-brown:hover,.nd2-label.nd2-label-brown { color: rgb(255,255,255); background-color: #795548; }
+.ui-btn.ui-btn-raised.clr-btn-grey,.ui-btn.clr-btn-grey:hover,.nd2-label.nd2-label-grey { color: rgb(255,255,255); background-color: #9E9E9E; }
+.ui-btn.ui-btn-raised.clr-btn-blue-grey,.ui-btn.clr-btn-blue-grey,.nd2-label.nd2-label-blue-grey { color: rgb(255,255,255); background-color: #607D8B; }
+.ui-btn.ui-btn-raised.clr-btn-white,.ui-btn.clr-btn-white:hover,.nd2-label.nd2-label-white { color: rgba(0,0,0,0.8); background-color: #FFFFFF; }
 
 
 /*
