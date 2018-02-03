@@ -1284,7 +1284,7 @@ html >body .ui-rangeslider .ui-rangeslider-sliders .ui-slider-track:first-child 
 .ui-btn.ui-btn-raised.clr-btn-green,.ui-btn.clr-btn-green:hover,.nd2-label.nd2-label-green { color: rgb(255,255,255); background-color: #4CAF50; }
 .ui-btn.ui-btn-raised.clr-btn-light-green,.ui-btn.clr-btn-light-green,.nd2-label.nd2-label-light-green { color: rgb(255,255,255); background-color: #8BC34A; }
 .ui-btn.ui-btn-raised.clr-btn-yellow,.ui-btn.clr-btn-yellow:hover,.nd2-label.nd2-label-yellow { color: rgba(0,0,0,0.8); background-color: #FFEB3B; }
-.ui-btn.ui-btn-raised.clr-btn-amber,.ui-btn.clr-btn-amber:hover,.nd2-label.nd2-label-amber { color: rgba(0,0,0,0.8); background-color: #FFC107; }
+.ui-btn.ui-btn-raised.clr-btn-amber,.ui-btn.clr-btn-amber:hover,.nd2-label.nd2-label-amber { color: rgb(255,255,255); background-color: #FFC107; }
 .ui-btn.ui-btn-raised.clr-btn-orange,.ui-btn.clr-btn-orange:hover,.nd2-label.nd2-label-orange { color: rgb(255,255,255); background-color: #FF9800; }
 .ui-btn.ui-btn-raised.clr-btn-deep-orange,.ui-btn.clr-btn-deep-orange,.nd2-label.nd2-label-deep-orange { color: rgb(255,255,255); background-color: #FF5722; }
 .ui-btn.ui-btn-raised.clr-btn-brown,.ui-btn.clr-btn-brown:hover,.nd2-label.nd2-label-brown { color: rgb(255,255,255); background-color: #795548; }
